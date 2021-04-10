@@ -1,0 +1,8 @@
+1. (DONE)   Recognize Different levels
+2. (DONE)   Save Data
+3. (DONE)   random monster spawn
+4. (DONE)   Different monsters
+5. (DONE)   Shop with health potions/armor/weapon
+6. (DONE)   Character profile(Remaining health, current level, remaining health potions, atk, def)
+7. (DONE)   Add heal function
+8. (DONE)   ability to start new game or continue from previous Save
